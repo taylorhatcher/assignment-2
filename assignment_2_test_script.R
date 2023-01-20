@@ -1,11 +1,6 @@
-###Testing script for creating new branch
+###Testing script for assignment 2
 
-thesis_work<-"Good"
-print("How is the craic")
-
-#response
-ifelse(thesis_work=="Good"){
-  print("The craic is mighty")
-}else {
-  print("No craic")
+## A simple function for adding 2 numbers
+add <- function(a, b) {
+  return(a + b)
 }
